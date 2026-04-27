@@ -43,3 +43,48 @@ data/social_media_performance.csv
 ```text
 Python 3.12.13
 ```
+---
+
+## How to Reproduce This Work
+
+This project was developed in **Google Colab**. To reproduce the analysis, follow these steps:
+
+1. Open the main notebook in Google Colab:
+
+```text
+main_notebook.ipynb
+```
+
+2. Make sure the dataset is located at:
+
+```text
+data/social_media_performance.csv
+```
+
+3. Run the notebook from top to bottom.
+
+4. If running locally instead of Colab, install the required packages with:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## Key Dependencies and Versions
+
+This project was built using Python in Google Colab. The full environment is listed in [requirements.txt](./requirements.txt).
+
+The most important packages used in this project are:
+
+- Python
+- pandas
+- NumPy
+- matplotlib
+- mlxtend
+- Google Colab
+
+
+The [requirements.txt](./requirements.txt) file contains the complete list of package versions needed to reproduce the notebook environment.
+
+---
