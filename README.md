@@ -32,6 +32,7 @@ The dataset used in this repository is located here:
 
 ```text
 data/social_media_performance.csv
+```
 
 [Link to website origin of dataset](https://www.kaggle.com/datasets/svthejaswini/social-media-performance-and-engagement-data?resource=download)
 
@@ -39,5 +40,6 @@ data/social_media_performance.csv
 
 ## Python Version
 
-'''text
+```text
 Python 3.12.13
+```
